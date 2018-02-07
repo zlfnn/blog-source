@@ -17,3 +17,5 @@ git remote add origin https://github.com/zlfnn/blog-source.git
 git push -u origin master
 ```
 #### github仓库创建
+
+[链接] (https://zlfnn.github.io/blog/)
